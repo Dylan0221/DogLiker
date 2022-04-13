@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191356833359",
+    "project_id": "dogliker5",
+    "storage_bucket": "dogliker5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191356833359:android:ebe2173b0012b475c6e43a",
+        "android_client_info": {
+          "package_name": "com.dylan0221.dogliker5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191356833359-26rmfslsr28n38u1sfejccd1hca82a49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dylan0221.dogliker5",
+            "certificate_hash": "835c27ccca47517b09935b3e93abb2c5028e9ea1"
+          }
+        },
+        {
+          "client_id": "191356833359-27itodrarhiqfpgjvc0aqocdf2a4gndk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIKRKseAYjMIW6_kxYn8TGTQL2_5W15yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191356833359-27itodrarhiqfpgjvc0aqocdf2a4gndk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
