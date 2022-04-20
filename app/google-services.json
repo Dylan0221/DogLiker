@@ -7,18 +7,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:191356833359:android:ebe2173b0012b475c6e43a",
+        "mobilesdk_app_id": "1:191356833359:android:f0032356b074e76dc6e43a",
         "android_client_info": {
-          "package_name": "com.dylan0221.dogliker5"
+          "package_name": "com.dylan0221.dogliker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "191356833359-26rmfslsr28n38u1sfejccd1hca82a49.apps.googleusercontent.com",
+          "client_id": "191356833359-8b76hgrkbv06jpok0auo9652do30gh4b.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.dylan0221.dogliker5",
-            "certificate_hash": "835c27ccca47517b09935b3e93abb2c5028e9ea1"
+            "package_name": "com.dylan0221.dogliker",
+            "certificate_hash": "8f034b6ff4f647c48825d9276bbb18cd9b943a23"
           }
         },
         {

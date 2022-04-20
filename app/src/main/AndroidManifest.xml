@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dylan0221.dogliker5">
+    package="com.dylan0221.dogliker">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
 
     <application
-        android:name=".di.application.DogLikerApplication"
+        android:usesCleartextTraffic="true"
+        android:name="com.dylan0221.dogliker.di.application.DogLikerApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -15,10 +16,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DogLiker5">
         <activity
-            android:name=".presentation.ui.main.mainactivity.MainActivity"
+            android:name="com.dylan0221.dogliker.presentation.ui.main.mainactivity.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.DogLiker5">
+            android:theme="@style/Theme.DogLiker5"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
